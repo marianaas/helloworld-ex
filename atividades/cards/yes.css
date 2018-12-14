@@ -1,0 +1,16 @@
+div.header{
+	background-color: #4caf50;
+	color: white;
+	padding: 10px;
+	font-size: 40px;
+}
+
+div.container{
+	padding: 10px;
+}
+
+div.card{
+	width: 250px;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0px 6px 20px rgba(0,0,0, 0.19);
+}

@@ -1,0 +1,58 @@
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	background-color:#09090E; 
+	overflow:hidden;
+}
+
+li {
+	float:left;
+}
+
+li a {
+	display:block;
+	color: white;
+	text-align: center;
+	padding:14px 16px; 
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #DC9E5B;
+}
+
+header.cris{
+	background-color:#343a40;
+	background:url("../imagens/mulher.jpeg") no-repeat center center;
+	padding-top: 12rem;
+	padding-bottom: 12rem;
+}
+
+body	{
+	font-family: Arial; 
+	font-size: 20px;
+	text-align: justify-all;
+}
+
+p {
+	font-family: Arial; 
+	font-size: 26px;
+	text-align: justify;
+	margin: 2rem;
+}
+
+h1 {
+	margin: 2rem;
+	font-family: Helvetica;
+	font-size: 30px;
+
+}
+
+h2 {
+	margin: 2rem;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 28px;
+}
+
